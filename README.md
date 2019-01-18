@@ -1,2 +1,2 @@
 # myTunes
-A replica of Apple's iTunes
+A replica of Apple's iTunes landing page
